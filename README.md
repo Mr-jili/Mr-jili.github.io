@@ -5,3 +5,4 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/4'>vue全局API</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/5'>babel-plugin-import按需加载</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/6'>简介web攻击</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/7'>简介MVVM</a></p>
