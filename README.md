@@ -10,3 +10,5 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/6'>简介web攻击</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/7'>简介MVVM</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/8'>虚拟DOM操作</a></p>
+<h6>杂乱无章</h6>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/9'>随手一笔1</a></p>
