@@ -17,5 +17,5 @@
 <h6>草草了事</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/12'>web模糊搜索(未封装)</a></p>
 <h6>实践干货</h6>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/13'>打印交接单实现</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/14'>附件多次上传</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/14'>打印交接单实现</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/13'>附件多次上传</a></p>
