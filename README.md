@@ -1,7 +1,7 @@
 # Mr_blog
 <h6>随感而发</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/1' target="_blank">typescript后感</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/2'>vue后感</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/2'>vue初始</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/4'>vue全局API</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/11'>webpack基于vue-cli配置(vue)</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/16'>webpack独立配置(vue)</a></p>
