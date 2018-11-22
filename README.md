@@ -9,9 +9,9 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/3'>live server的使用</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/5'>babel-plugin-import按需加载</a></p>
 <h6>随性而为</h6>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/6'>简介web攻击</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/7'>简介MVVM</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/8'>简介虚拟DOM</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/6'>web攻击</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/7'>MVVM</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/8'>虚拟DOM</a></p>
 <h6>草草了事</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/12'>web模糊搜索(未封装)</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/13'>附件多次上传</a></p>
