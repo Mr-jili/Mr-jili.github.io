@@ -23,6 +23,7 @@
 <p><a href='http://webpack.wuhaolin.cn/'>深入浅出webpack-书</a></p>
 <h6>杂乱无章</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/9'>随手一笔1</a></p>
-
+<h6>mogul Take me fly</h6>
+<p><a href='http://biaochenxuying.cn/main.html'>博客链接</a></p>
 
 
