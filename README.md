@@ -1,6 +1,7 @@
 # Mr_blog
 <h6>segmentfault</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试总结</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/19' target="_blank">今日头条题目</a></p>
 <h6>随感而发</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/1' target="_blank">typescript后感</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/2'>vue基础</a></p>
