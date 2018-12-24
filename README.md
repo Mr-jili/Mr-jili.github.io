@@ -1,7 +1,4 @@
 # Mr_blog
-<h6>segmentfault</h6>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试总结</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/19' target="_blank">一道面试题引起的思考</a></p>
 <h6>随感而发</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/1' target="_blank">typescript后感</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/2'>vue基础</a></p>
@@ -26,6 +23,10 @@
 <p><a href='http://webpack.wuhaolin.cn/'>深入浅出webpack-书</a></p>
 <h6>杂乱无章</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/9'>随手一笔1</a></p>
+<h6>segmentfault</h6>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试总结</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/19' target="_blank">一道面试题引起的思考</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/20' target="_blank">图片优化方案</a></p>
 <h6>mogul Take me fly</h6>
 <p><a href='http://biaochenxuying.cn/main.html'>博客链接</a></p>
 <p><a href='https://kiwenlau.com/'>Fundebug</a></p>
