@@ -17,7 +17,7 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/13'>附件多次上传</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/15'>自动打印</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/14'>按相同字段进行分组</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/22'>bug赏析</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/22'>vue赏析</a></p>
 <h6>CSS3</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/17'>CSS效果</a></p>
 <h6>读书百遍，其义自见</h6>
