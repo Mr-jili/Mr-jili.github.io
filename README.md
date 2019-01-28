@@ -34,3 +34,4 @@
 <p><a href='https://kiwenlau.com/'>Fundebug</a></p>
 <p><a href='https://zhuanlan.zhihu.com/p/53703176'>vue.js面试题</a></p>
 <p><a href='https://zhuanlan.zhihu.com/p/51764279'>VS code配置项</a></p>
+<p><a href='https://segmentfault.com/a/1190000018038491'>网络知识</a></p>
