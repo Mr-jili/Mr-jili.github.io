@@ -35,3 +35,5 @@
 <p><a href='https://zhuanlan.zhihu.com/p/53703176'>vue.js面试题</a></p>
 <p><a href='https://zhuanlan.zhihu.com/p/51764279'>VS code配置项</a></p>
 <p><a href='https://segmentfault.com/a/1190000018038491'>网络知识</a></p>
+<p><a href='https://juejin.im/post/5c4a6fcd518825469414e062'>vue-cli3.0搭建及配置优化到部署</a></p>
+
