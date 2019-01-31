@@ -38,3 +38,4 @@
 <p><a href='https://juejin.im/post/5c4a6fcd518825469414e062'>vue-cli3.0搭建及配置优化到部署</a></p>
 <p><a href='https://juejin.im/post/5c36b3b0f265da611f07e409'>Event Loop</a></p>
 <p><a href='https://kb.cnblogs.com/page/129756/'>浏览器内部原理</a></p>
+<p><a href='https://juejin.im/post/5c488a3cf265da615705cc2a'>vue项目开发解析</a></p>
