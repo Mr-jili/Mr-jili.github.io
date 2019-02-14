@@ -28,7 +28,7 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试总结</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/19' target="_blank">一道面试题引起的思考</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/20' target="_blank">图片优化方案</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/21' target="_blank">各种封装方法</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/21' target="_blank">递归深拷贝</a></p>
 <h6>mogul Take me fly</h6>
 <p><a href='http://biaochenxuying.cn/main.html'>博客链接</a></p>
 <p><a href='https://kiwenlau.com/'>Fundebug</a></p>
