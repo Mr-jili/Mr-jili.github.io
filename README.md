@@ -23,6 +23,9 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/17'>CSS效果</a></p>
 <h6>读书百遍，其义自见</h6>
 <p><a href='http://webpack.wuhaolin.cn/'>深入浅出webpack-书</a></p>
+<p><a href='http://huziketang.mangojuice.top/books/react/lesson1'>react小书</a></p>
+<p><a href='https://www.w3cplus.com/react/stateful-vs-stateless-components.html'>react解析</a></p>
+<p><a href='https://dvajs.com/api/'>dvajs</a></p>
 <h6>杂乱无章</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/9'>随手一笔1</a></p>
 <h6>segmentfault</h6>
