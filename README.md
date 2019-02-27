@@ -46,3 +46,4 @@
 <p><a href='https://www.zhihu.com/people/evanyou/activities'>尤雨溪知乎</a></p>
 <p><a href='https://zhuanlan.zhihu.com/p/56121620'>首屏加载速度优化</a></p>
 <p><a href='https://juejin.im/post/5c64d15d6fb9a049d37f9c20'>面试指南</a></p>
+<p><a href='https://blog.csdn.net/llll_123456/article/details/79550124?tdsourcetag=s_pctim_aiomsg'>axios解决跨域问题</a></p>
