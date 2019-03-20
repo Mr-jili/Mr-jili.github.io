@@ -16,7 +16,6 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/8'>虚拟DOM</a></p>
 <h6>草草了事</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/12'>web模糊搜索(未封装)</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/13'>附件多次上传</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/15'>自动打印</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/14'>按相同字段进行分组</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/22'>vue赏析</a></p>
