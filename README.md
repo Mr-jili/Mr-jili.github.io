@@ -1,5 +1,6 @@
 # Mr_blog
 <h6>随感而发</h6>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/1' target="_blank">ES6知识点</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/1' target="_blank">typescript</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/2'>vue知识点</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/4'>vue全局API</a></p>
