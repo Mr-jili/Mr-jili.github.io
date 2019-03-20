@@ -5,6 +5,7 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/4'>vue全局API</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/11'>webpack基于vue-cli配置(vue)</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/16'>webpack独立配置(vue)</a></p>
+<p><a href='https://juejin.im/post/5c63afd56fb9a049b41cf5f4'>vue-cli3.x 配置</a></p>
 <h6>plug-in</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/3'>live server的使用</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/5'>babel-plugin-import按需加载</a></p>
