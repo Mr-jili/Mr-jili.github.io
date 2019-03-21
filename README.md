@@ -32,19 +32,4 @@
 <h6>segmentfault</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试总结</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/19' target="_blank">一道面试题引起的思考</a></p>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/20' target="_blank">图片优化方案</a></p>
-<h6>mogul Take me fly</h6>
-<p><a href='http://biaochenxuying.cn/main.html'>博客链接</a></p>
-<p><a href='https://kiwenlau.com/'>Fundebug</a></p>
-<p><a href='https://zhuanlan.zhihu.com/p/53703176'>vue.js面试题</a></p>
-<p><a href='https://zhuanlan.zhihu.com/p/51764279'>VS code配置项</a></p>
-<p><a href='https://segmentfault.com/a/1190000018038491'>网络知识</a></p>
-<p><a href='https://juejin.im/post/5c4a6fcd518825469414e062'>vue-cli3.0搭建及配置优化到部署</a></p>
-<p><a href='https://juejin.im/post/5c36b3b0f265da611f07e409'>Event Loop</a></p>
-<p><a href='https://kb.cnblogs.com/page/129756/'>浏览器内部原理</a></p>
-<p><a href='https://juejin.im/post/5c488a3cf265da615705cc2a'>vue项目开发解析</a></p>
-<p><a href='https://juejin.im/post/5c3c544c6fb9a049d37f5903'>vue-cli3优化搭建</a></p>
-<p><a href='https://www.zhihu.com/people/evanyou/activities'>尤雨溪知乎</a></p>
-<p><a href='https://zhuanlan.zhihu.com/p/56121620'>首屏加载速度优化</a></p>
-<p><a href='https://juejin.im/post/5c64d15d6fb9a049d37f9c20'>面试指南</a></p>
-<p><a href='https://blog.csdn.net/llll_123456/article/details/79550124?tdsourcetag=s_pctim_aiomsg'>axios解决跨域问题</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/20' target="_blank">图片优化方案</a></p> 
