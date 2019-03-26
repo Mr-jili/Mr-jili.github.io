@@ -1,5 +1,5 @@
-# Mr_blog
 <h6>随感而发</h6>
+<div style="text-indent:2em;>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/24' target="_blank">ES6知识点</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/1' target="_blank">typescript</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/2'>vue知识点</a></p>
@@ -7,6 +7,7 @@
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/11'>基于vue-cli2.x配置(vue)</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/16'>webpack简易配置(vue)</a></p>
   <p><a href='https://juejin.im/post/5c63afd56fb9a049b41cf5f4'>基于vue-cli3.x 配置</a></p>
+</div>
 <h6>plug-in</h6>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/3'>live server的使用</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/5'>babel-plugin-import按需加载</a></p>
