@@ -30,7 +30,7 @@
 <h6>杂乱无章</h6>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/9'>随手一笔1</a></p>
 <h6>segmentfault</h6>
-<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试总结</a></p>
+<p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试review</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/19' target="_blank">一道面试题引起的思考</a></p>
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/20' target="_blank">图片优化方案</a></p> 
 <h6><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/23' target="_blank">mogul takes me flying</a></h6>
