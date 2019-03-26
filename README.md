@@ -47,3 +47,9 @@
   <p><a href='https://www.w3cplus.com/react/stateful-vs-stateless-components.html'>react解析</a></p>
   <p><a href='https://dvajs.com/api/'>dvajs</a></p>
  </div>
+<h4>第三方接口</h4>
+  <p><a href='https://lbs.amap.com/'>高德地图</a></p>
+  <p><a href='https://developer.github.com/v3/'>githup</a></p>
+  <p><a href='http://api.fanyi.baidu.com/api/trans/product/index'>百度翻译</a></p>
+  <p><a href='https://www.avatardata.cn/'>阿凡达数据</a></p>
+  <p><a href='https://www.heweather.com/documents/'>和风天气</a></p>
