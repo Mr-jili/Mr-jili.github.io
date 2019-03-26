@@ -38,7 +38,7 @@
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试review</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/20' target="_blank">图片优化方案</a></p> 
 </div>
-<h4><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/23' target="_blank">mogul takes me flying</a></h4>
+<h4><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/23' target="_blank" style="color:yellowgreen;">mogul takes me flying</a></h4>
 
 <h4>读书百遍，其义自见</h4>
 <div style="text-indent: 2em;">
