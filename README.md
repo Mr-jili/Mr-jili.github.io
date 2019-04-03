@@ -1,4 +1,6 @@
-<h2 align="center">菜的另一种境界<h2>
+<div>
+  <h2 align="center">菜的另一种境界<h2>
+</div>
 <h4>随感而发</h4>
 <div style="text-indent: 2em;">
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/24' target="_blank">ES6知识点</a></p>
