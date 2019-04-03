@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center">菜的另一种境界<h2>
+  <h2 align="center">菜是一种境界<h2>
 </div>
 <h4>随感而发</h4>
 <div style="text-indent: 2em;">
