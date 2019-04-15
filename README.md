@@ -20,7 +20,7 @@
 <h4>草草了事</h4>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/12'>web模糊搜索(未封装)</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/14'>按相同字段进行分组</a></p>
-  <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/22'>vue bug</a></p>
+  <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/22'>vue 实战</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/18' target="_blank">面试review</a></p>
 <h4>CSS3</h4>
 <div style="text-indent: 2em;">
