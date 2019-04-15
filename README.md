@@ -30,7 +30,7 @@
 <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/9'>随手一笔1</a></p>
 <h4>segmentfault/掘金</h4>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/20' target="_blank">图片优化方案</a></p> 
-<h3><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/23' target="_blank" color=yellow>mogul takes me flying</a></h3>
+<h4><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/23' target="_blank" color=yellow>技术博文</a></h4>
 
 <h4>读书百遍，其义自见</h4>
   <p><a href='http://webpack.wuhaolin.cn/'>深入浅出webpack-书</a></p>
