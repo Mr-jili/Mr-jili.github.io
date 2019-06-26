@@ -37,6 +37,10 @@
   <p><a href='http://huziketang.mangojuice.top/books/react/lesson1'>react小书</a></p>
   <p><a href='https://www.w3cplus.com/react/stateful-vs-stateless-components.html'>react解析</a></p>
   <p><a href='https://dvajs.com/api/'>dvajs</a></p>
+
+<h4>web工具</h4>
+  <p><a href='https://ps.gaoding.com/?hmsr=ivan-intro-juejin#/'>photopea</a></p>
+
 <h4>第三方接口</h4>
   <p><a href='https://lbs.amap.com/'>高德地图</a></p>
   <p><a href='https://developer.github.com/v3/'>githup</a></p>
