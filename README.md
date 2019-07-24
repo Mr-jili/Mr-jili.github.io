@@ -9,6 +9,7 @@
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/11'>基于vue-cli2.x配置(vue)</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/16'>webpack简易配置(vue)</a></p>
   <p><a href='https://juejin.im/post/5c63afd56fb9a049b41cf5f4'>基于vue-cli3.x 配置</a></p>
+  <p><a href='https://juejin.im/post/5d34fdfff265da1b897b0c8d'>VScode快捷方式</a></p>
 <h4>plug-in</h4>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/3'>live server的使用</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/5'>babel-plugin-import按需加载</a></p>
