@@ -1,6 +1,16 @@
 <div>
-  <h2 align="center">菜是一种境界<h2>
+  <h2 align="center">学无止境<h2>
 </div>
+<h4>HTML+CSS基础总结</h4>
+  <p><a href='' target="_blank">HTML(5)</a></p>
+  <p><a href='' target="_blank">CSS(3)</a></p>
+<h4>javascript基础总结</h4>
+  <p><a href='' target="_blank">数据类型</a></p>
+  <p><a href='' target="_blank">javascript常用方法</a></p>
+  <p><a href='' target="_blank">面向对象</a></p>
+  <p><a href='' target="_blank">闭包/原型链</a></p>
+  <p><a href='' target="_blank">DOM事件</a></p>
+  <p><a href='' target="_blank">ES6</a></p>
 <h4>随感而发</h4>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/24' target="_blank">ES6知识点</a></p>
   <p><a href='https://github.com/Mr-jili/Mr-jili.github.io/issues/1' target="_blank">typescript</a></p>
